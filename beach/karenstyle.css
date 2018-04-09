@@ -17,6 +17,9 @@ body, html{
     background-size: cover;
 }
 
+audio { 
+   display:none;
+}
 
 
 img.items{
