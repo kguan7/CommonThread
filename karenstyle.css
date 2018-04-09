@@ -12,11 +12,11 @@ img.lands{
 	left: 0px;
 }
 
-div.title{
-	color: white;
+img.title{
 	position: absolute;
-	top: 5px;
+	top: 20px;
 	left: 20px;
+    width: 175px;
 }
 
 div.menu{
